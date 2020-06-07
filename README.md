@@ -1,6 +1,7 @@
-[Next Level Week](web/src/assets/nlw.png?raw=true)
+![Next Level Week](./web/src/assets/nlw.png?raw=true)
 ---
-[Ecoleta](web/src/assets/logo.svg?raw=true)
+![Ecoleta](web/src/assets/logo.svg?raw=true)
+
 This project was made during RocketSeat's Next Level Week.
 Ecoleta aims to help people find recycling collection points and centers. This project was inspired by the International Environment Week.
 
