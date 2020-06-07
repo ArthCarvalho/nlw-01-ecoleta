@@ -1,5 +1,9 @@
-![Next Level Week](./web/src/assets/nlw.png?raw=true)
+<p align="center">
+  <img width="299" height="255" src="web/src/assets/nlw.png?raw=true" alt="Next Level Week">
+</p>
+
 ---
+
 ![Ecoleta](web/src/assets/logo.svg?raw=true)
 
 This project was made during RocketSeat's Next Level Week.
